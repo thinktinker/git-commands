@@ -83,10 +83,10 @@
 ### B. Pulling changes from remote repository to update local repository
 -------
 
-1.	Suppose changes are introduced to the remote repository, where a new branch is created:
+1.	Suppose changes are introduced to the remote repository, where a new branch is created from the main branch:
 
-    > `main`
-    > &nbsp;&nbsp;L **`<new-branch>`**
+    > `main` 
+    > -> **`<new-branch>`**
 
 <br>
 
