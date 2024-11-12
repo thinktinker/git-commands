@@ -178,3 +178,10 @@
     > **TIP:** 
     > * An **uppercase -D option** forcefully deletes a branch, regardless of its merge status. This option should be used with caution, as it can remove unmerged work.
     > * A **lowercase -d option** deletes a branch only if it is fully merged with the current branch or its upstream branch. If there are unmerged changes, Git will prevent the deletion to avoid data loss.
+
+<br>
+
+### E. Working with Git and Github Collaboratively
+-------
+
+1. Work in Progress (WIP)
